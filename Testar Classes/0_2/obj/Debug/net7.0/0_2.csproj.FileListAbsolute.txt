@@ -1,0 +1,14 @@
+C:\Nackademin\Practice\Testar Classes\0_2\bin\Debug\net7.0\0_2.exe
+C:\Nackademin\Practice\Testar Classes\0_2\bin\Debug\net7.0\0_2.deps.json
+C:\Nackademin\Practice\Testar Classes\0_2\bin\Debug\net7.0\0_2.runtimeconfig.json
+C:\Nackademin\Practice\Testar Classes\0_2\bin\Debug\net7.0\0_2.dll
+C:\Nackademin\Practice\Testar Classes\0_2\bin\Debug\net7.0\0_2.pdb
+C:\Nackademin\Practice\Testar Classes\0_2\obj\Debug\net7.0\0_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\Practice\Testar Classes\0_2\obj\Debug\net7.0\0_2.AssemblyInfoInputs.cache
+C:\Nackademin\Practice\Testar Classes\0_2\obj\Debug\net7.0\0_2.AssemblyInfo.cs
+C:\Nackademin\Practice\Testar Classes\0_2\obj\Debug\net7.0\0_2.csproj.CoreCompileInputs.cache
+C:\Nackademin\Practice\Testar Classes\0_2\obj\Debug\net7.0\0_2.dll
+C:\Nackademin\Practice\Testar Classes\0_2\obj\Debug\net7.0\refint\0_2.dll
+C:\Nackademin\Practice\Testar Classes\0_2\obj\Debug\net7.0\0_2.pdb
+C:\Nackademin\Practice\Testar Classes\0_2\obj\Debug\net7.0\0_2.genruntimeconfig.cache
+C:\Nackademin\Practice\Testar Classes\0_2\obj\Debug\net7.0\ref\0_2.dll
